@@ -1,0 +1,11 @@
+# 核心推理引擎
+vllm>=0.6.0
+# 基础模型与分词器支持
+transformers>=4.44.0
+torch>=2.4.0
+# 数据处理
+pandas
+pyarrow
+# 进度条与工具
+tqdm
+fsspec
