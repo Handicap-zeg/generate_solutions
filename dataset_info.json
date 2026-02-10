@@ -1,0 +1,10 @@
+{
+  "mathfusion_parquet": {
+    "file_name": "/home/dataset-local/usr/lh/zeg/datasets/mathfusionqa_math/merged_train.parquet",
+    "columns": {
+      "prompt": "query",
+      "query": "query",
+      "response": "response"
+    }
+  }
+}
